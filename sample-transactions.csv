@@ -1,0 +1,11 @@
+transactionId,userId,amount,merchant,location,deviceId,timestamp,transactionType
+tx-001,user-101,150.50,Amazon,New York,device-001,2024-01-15T10:30:00,DEBIT
+tx-002,user-102,250.00,Best Buy,Los Angeles,device-002,2024-01-15T11:00:00,DEBIT
+tx-003,user-101,75.25,Walmart,Chicago,device-001,2024-01-15T12:15:00,CREDIT
+tx-004,user-103,500.00,Apple Store,San Francisco,device-003,2024-01-15T14:00:00,DEBIT
+tx-005,user-102,120.75,Target,Houston,device-002,2024-01-15T15:30:00,DEBIT
+tx-006,user-104,89.99,eBay,Seattle,device-004,2024-01-15T16:45:00,CREDIT
+tx-007,user-101,200.00,Starbucks,Boston,device-001,2024-01-15T17:00:00,DEBIT
+tx-008,user-105,350.00,Nike,Miami,device-005,2024-01-15T18:30:00,DEBIT
+tx-009,user-103,45.50,McDonalds,Denver,device-003,2024-01-15T19:00:00,CREDIT
+tx-010,user-106,1000.00,Tesla,Austin,device-006,2024-01-15T20:00:00,DEBIT
